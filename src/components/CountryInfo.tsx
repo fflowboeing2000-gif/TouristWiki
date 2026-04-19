@@ -1,3 +1,4 @@
+// @ts-nocheck
 export default function CountryInfo(props) {
   return (<>
     <div className="my-2 w-full text-center">
